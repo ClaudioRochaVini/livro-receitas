@@ -4,3 +4,5 @@ Olá! Bem vindo ao meu livro de receitas :hand:
 
 - Strogonoff de camarão
 - Pavê
+- Bolo de cenoura
+
